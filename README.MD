@@ -46,13 +46,9 @@ Dionaea achieves its functionality by embedding Python using the Flask framework
 <img src="M4.JPG">
 <img src="M5.JPG">
 <img src="M5_P2.JPG">
-## Notes
 
-Describe any challenges encountered while doing the assignment.
 
-Everything went smoothly
-
-##Conclusion
+## Conclusion
 By setting up a honeynet with MHN-Admin and deploying a Dionaea honeypot, we have demonstrated the potential risks and vulnerabilities that exist in the current state of Internet security. This exercise highlights the importance of allocating more resources to the IT security team to proactively address these threats and protect the company's valuable assets.
 
 
