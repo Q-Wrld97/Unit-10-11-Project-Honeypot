@@ -13,7 +13,11 @@ To deploy the project, I used Google Cloud Provider (GCP) and the Compute Engine
 2: allow TCP 3000 ingress connection for access to HoneyMap Feature From Anywhere
 3: allow TCP 10000 ingress connection for accesss to HPFeeds From Anywhere 
 
-<img src="mhn-admin.gif">
+<img src="M0.png">
+<img src="M1.png">
+<img src="M1_P2.png">
+<img src="M2.png">
+
 
 ### Dionaea Honeypot Deployment (Required)
 
@@ -38,14 +42,17 @@ tftp
 upnp
 
 Dionaea achieves its functionality by embedding Python using the Flask framework and employing libemu to detect shellcode.
-
-<img src="dionaea-honeypot.gif">
-
+<img src="M3.png">
+<img src="M4.png">
+<img src="M5.png">
+<img src="M5_P2.png">
 ## Notes
 
 Describe any challenges encountered while doing the assignment.
 
 Everything went smoothly
 
+##Conclusion
+By setting up a honeynet with MHN-Admin and deploying a Dionaea honeypot, we have demonstrated the potential risks and vulnerabilities that exist in the current state of Internet security. This exercise highlights the importance of allocating more resources to the IT security team to proactively address these threats and protect the company's valuable assets.
 
 
