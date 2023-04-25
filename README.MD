@@ -13,10 +13,10 @@ To deploy the project, I used Google Cloud Provider (GCP) and the Compute Engine
 2: allow TCP 3000 ingress connection for access to HoneyMap Feature From Anywhere
 3: allow TCP 10000 ingress connection for accesss to HPFeeds From Anywhere 
 
-<img src="M0.png">
-<img src="M1.png">
-<img src="M1_P2.png">
-<img src="M2.png">
+<img src="M0.JPG">
+<img src="M1.JPG">
+<img src="M1_P2.JPG">
+<img src="M2.JPG">
 
 
 ### Dionaea Honeypot Deployment (Required)
@@ -42,10 +42,10 @@ tftp
 upnp
 
 Dionaea achieves its functionality by embedding Python using the Flask framework and employing libemu to detect shellcode.
-<img src="M3.png">
-<img src="M4.png">
-<img src="M5.png">
-<img src="M5_P2.png">
+<img src="M3.JPG">
+<img src="M4.JPG">
+<img src="M5.JPG">
+<img src="M5_P2.JPG">
 ## Notes
 
 Describe any challenges encountered while doing the assignment.
